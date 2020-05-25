@@ -3,3 +3,5 @@ Documents and Important commands
 - Gradle : 
     Gradle is a build system, which is responsible for code compilation, testing, deployment and conversion of the code into .dex files and hence running the app on the device. 
 
+- An application can be comprise of different activity  
+
