@@ -4,4 +4,5 @@ Documents and Important commands
     Gradle is a build system, which is responsible for code compilation, testing, deployment and conversion of the code into .dex files and hence running the app on the device. 
 
 - An application can be comprise of different activity  
-
+- For basic different view 
+    https://s3.amazonaws.com/video.udacity-data.com/topher/2017/July/595ab9de_common-android-views-cheat-sheet/common-android-views-cheat-sheet.pdf  

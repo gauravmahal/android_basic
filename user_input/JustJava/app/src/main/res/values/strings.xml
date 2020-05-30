@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">JustJava</string>
     <string name="quantity">Quantity</string>
-    <string name="quantityValue">0</string>
+    <string name="quantityValue">1</string>
     <string name="price">Price</string>
     <string name="priceValue">Total: $0\n</string>
     <string name="order">Order</string>
