@@ -88,6 +88,7 @@ public class MainActivity extends AppCompatActivity {
         // Display the order summary on the screen
         String message = createOrderSummary(price, hasWhippedCream, hasChocolate);
 
+        displayMessage(message);
         Intent intent = new Intent(Intent.ACTION_SENDTO);
         intent.setData(Uri.parse("mailto:")); // only email apps should handle this
         intent.putExtra(Intent.EXTRA_SUBJECT, "Just Java Order Summary");
@@ -96,7 +97,6 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
         }
 
-        displayMessage(message);
     }
 
     /**
