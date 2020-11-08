@@ -1,0 +1,4 @@
+[submodule "multiscreen_apps/ud839_Miwok"]
+	path = multiscreen_apps/ud839_Miwok
+	url = git@github.com:gauravmahal/ud839_Miwok.git
+	branch = lesson-five
